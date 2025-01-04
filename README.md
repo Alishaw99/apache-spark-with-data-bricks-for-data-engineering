@@ -1,2 +1,2 @@
-# apache-spark-with-data-bricks-for-data-engineering
-apache-spark-with-data-bricks-for-data-engineering
+
+This project is a Spotify data processing pipeline that extracts, transforms, and loads data for analysis and insights. It integrates with the Spotify API using Python for data extraction and employs Apache Spark for scalable data transformation tasks. The project includes reusable components like the spotipy_layer for API interactions and a Jupyter notebook for interactive data exploration. It facilitates efficient management and analysis of Spotify-related datasets for various use cases
